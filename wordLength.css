@@ -1,0 +1,45 @@
+body {
+	/* hex value will be salmon color */
+	background-color: #FA8045;
+}
+
+input {
+	margin-top: 100px;
+	margin-left: 380px;
+	width: 350px;
+	height: 40px;
+	display: block;
+	padding-left: 395px;
+}
+
+#output {
+
+	margin-top: 45px;
+ 	margin-left: 650px;
+ 	font-size: 25px;
+	width: 200px;
+	background: lightgreen;
+	
+}
+ #btn  {
+
+ 	width: 350px;
+ 	height: 80px;
+ 	/* color of text inside the button */
+ 	color: #fff;
+ 	background-color: blue;
+ 	/* removes any shadows on the button */
+ 	border-style: none;
+ 	/* rounds the corners of the button */
+ 	border-radius: 15px;
+ 	margin-top: 100px;
+ 	margin-left: 560px;
+ }
+ 
+  h1  {
+  	text-align: center;
+  	/* hex value for black */
+  	color: #000;
+  	margin-top: 50px;
+
+  }
